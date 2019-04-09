@@ -154,7 +154,7 @@ while True:
             #if op.type in OpType._VALUES_TO_NAMES:
             #    print("[ {} ] {}".format(str(op.type), str(OpType._VALUES_TO_NAMES[op.type])))
 #=========================================================================================================================================#
-            if op.type == 25:
+            if op.type == 26:
                 msg = op.message
                 text = msg.text
                 cmd = msg.text
